@@ -46,8 +46,8 @@ Follow these instructions to set up and run Mihir A.I on your local machine.
 
 ## Functionalities
 
-- **1.**Chat with OpenAI's GPT-3
-- **2.**The assistant engages in intelligent conversations using OpenAI's GPT-3. The chat history is stored for context.
+- **Chat with OpenAI's GPT-3**
+- **The assistant engages in intelligent conversations using OpenAI's GPT-3. The chat history is stored for context.**
 
 •python
 - **Copy code**
