@@ -1,6 +1,6 @@
 # Mihir A.I - Voice Assistant
 
-![Project Logo]((https://drive.google.com/file/d/17GZZL4qVyZwonMOfLyUSl8-S6Yz-Ahff/view?usp=sharing))
+![Project Logo](https://drive.google.com/file/d/17GZZL4qVyZwonMOfLyUSl8-S6Yz-Ahff/view?usp=sharing)
 
 ## Overview
 
