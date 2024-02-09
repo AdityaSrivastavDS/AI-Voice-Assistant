@@ -50,16 +50,16 @@ Follow these instructions to set up and run Mihir A.I on your local machine.
 - **2.**The assistant engages in intelligent conversations using OpenAI's GPT-3. The chat history is stored for context.
 
 •python
-- **•Copy code**
-- **•chat("How are you?")**
-- **•Web Browsing**
+- **Copy code**
+- **chat("How are you?")**
+- **Web Browsing**
 
 ### Open specified websites with commands like:
 
-- **•"Open YouTube"**
-- **•"Open Wikipedia"**
-- **•"Open Google"**
-- **•Task Automation**
+- **"Open YouTube"**
+- **"Open Wikipedia"**
+- **"Open Google"**
+- **Task Automation**
 - **Play music: "Open music"**
 - **Get the current time: "What's the time?"**
 - **Intelligent Responses**
