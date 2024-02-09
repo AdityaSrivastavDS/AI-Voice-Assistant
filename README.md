@@ -72,6 +72,8 @@ Follow these instructions to set up and run Mihir A.I on your local machine.
 - **ai("What is the impact of artificial intelligence on society?")**
 - **Responses are saved to the "Openai" directory.**
 
+###Note:- Use your own api key in config file.
+
 ## Contributing
 
 •Contributions are welcome! Please follow the contribution guidelines to contribute to this project.
