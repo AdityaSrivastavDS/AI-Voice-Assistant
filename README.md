@@ -41,36 +41,36 @@ Follow these instructions to set up and run Mihir A.I on your local machine.
 
 ## Usage
 
-1.Run the voice assistant: python voice_assistant.py
-2.Mihir A.I will start listening for your commands.
+- **1.**Run the voice assistant: python voice_assistant.py
+- **2.**Mihir A.I will start listening for your commands.
 
 ## Functionalities
 
-1.Chat with OpenAI's GPT-3
-2.The assistant engages in intelligent conversations using OpenAI's GPT-3. The chat history is stored for context.
+- **1.**Chat with OpenAI's GPT-3
+- **2.**The assistant engages in intelligent conversations using OpenAI's GPT-3. The chat history is stored for context.
 
 •python
-•Copy code
-•chat("How are you?")
-•Web Browsing
+- **•Copy code**
+- **•chat("How are you?")**
+- **•Web Browsing**
 
 ### Open specified websites with commands like:
 
-•"Open YouTube"
-•"Open Wikipedia"
-•"Open Google"
-•Task Automation
-•Play music: "Open music"
-•Get the current time: "What's the time?"
-•Intelligent Responses
+- **•"Open YouTube"**
+- **•"Open Wikipedia"**
+- **•"Open Google"**
+- **•Task Automation**
+- **Play music: "Open music"**
+- **Get the current time: "What's the time?"**
+- **Intelligent Responses**
 
 
 ### Ask questions related to AI:
 
-•python
-•Copy code
-•ai("What is the impact of artificial intelligence on society?")
-•Responses are saved to the "Openai" directory.
+- **python**
+- **Copy code**
+- **ai("What is the impact of artificial intelligence on society?")**
+- **Responses are saved to the "Openai" directory.**
 
 ## Contributing
 
