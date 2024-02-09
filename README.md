@@ -41,8 +41,8 @@ Follow these instructions to set up and run Mihir A.I on your local machine.
 
 ## Usage
 
-- **1.**Run the voice assistant: python voice_assistant.py
-- **2.**Mihir A.I will start listening for your commands.
+- **Run the voice assistant: python voice_assistant.py**
+- **ihir A.I will start listening for your commands.**
 
 ## Functionalities
 
