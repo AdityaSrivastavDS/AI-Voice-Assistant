@@ -9,7 +9,7 @@ from config import apikey
 import datetime
 import random
 import numpy as np
-import pyttsx3
+import pyttsx3  #convert text to speech
 
 # Initialize chat string
 chatStr = ""
